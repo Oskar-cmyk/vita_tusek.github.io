@@ -1,5 +1,5 @@
 media:
-  input: public/images
+  input: public/
   output: https://oskar-cmyk.github.io/vita_tusek.github.io/images
 content:
   - name: works
